@@ -1,2 +1,2 @@
-# 04-June-2025-Platform-Engineering__Test-IDP
-Platform Engineering - Test IDP
+# Platform Engineering - Test IDP:-
+This repositorz is used for testing IDP - Internal Developer Portal!
